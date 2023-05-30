@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    vertical-align: middle;
+           
+}
+.form{
+    margin-left: 400px;
+        margin-right: 400px;
+        padding-left: 200px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+    align-items: center;
+    background-color: lightblue;
+
+
+
+} 
+.h{
+    margin-left: 400px;
+}
+.hello{
+    margin-left: 650px;
+}
